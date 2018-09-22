@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two|Open+Sans');
+header{
+    background: rgba(156, 8, 8, 0.733);
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+    color: black;
+    height: 150px;
+}
+header h1{
+    font-weight: bold;
+    font-size: 40pt;
+}
+header h2{
+    font-size: 14pt;
+    font-style: italic;
+}
+footer{
+    background: rgba(156, 8, 8, 0.733);
+    text-align: center;
+}
+footer p{
+    font-size: 30pt;
+    color:white;
+    font-family: fantasy;
+}
+footer img{
+    height: 180px;
+    width: 500px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+nav{
+    height: 80px;
+    border:5px double white;
+    width: 100%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgba(112, 40, 247, 0.733);
+    padding-top: 80px; 
+}
+nav a{
+    margin-left: 40px;
+    margin-right: 40px;
+    color: white;
+    font-size: 14pt;
+    font-family:'Lobster Two', cursive;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 10px;
+}
+
